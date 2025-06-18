@@ -6,5 +6,6 @@ else:
 
 list=[1,2,3,4,5,5,6,6]
 print(type(list))
+print(len(list)
 print(list.append("sridhar"))
 print(list)
